@@ -44,7 +44,7 @@ const About = () => {
       >
         Welcome to my portfolio website! I'm a passionate front end developer
         with expertise in HTML, CSS, and JavaScript, along with proficiency in
-        Python and natural language processing (NLP). With a keen eye for design
+        React and Node js. With a keen eye for design
         and a love for creating intuitive user experiences, I specialize in
         crafting responsive and visually appealing websites and web
         applications.
